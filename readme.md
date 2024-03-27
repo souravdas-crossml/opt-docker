@@ -23,7 +23,7 @@ Install requirements
 Start Uvicorn server
 
 ```bash
-  uvicorn app:app --reload
+uvicorn app:app --host 0.0.0.0 --port 8000
 ```
 
 ## Docker Installation (if Docker is not present)
