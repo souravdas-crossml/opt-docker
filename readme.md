@@ -45,5 +45,5 @@ sudo docker image pull souravdas431/llm-test
 ```
 
 ```bash
-sudo docker run -dp 127.0.0.1:8000:8000 llm-test
+sudo docker run -dp 127.0.0.1:8000:8000 souravdas431/llm-test
 ```
